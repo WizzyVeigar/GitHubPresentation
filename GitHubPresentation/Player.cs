@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitHubPresentation
 {
-    class Program
+    class Player
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello world");
-        }
     }
 }
